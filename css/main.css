@@ -7,3 +7,41 @@
         text-decoration-line: none;
         color: blue;
       }
+      .image-link {
+        text-decoration: none;
+      }
+      .lincoln-quote {
+        padding: 2px 20px; 
+        background: #f2f2f2;
+      }
+      td {
+        padding: 10px;
+      }
+      .moby-header {
+        text-align: center; 
+        margin: 0 0 80px;
+      }
+      .whale-img {
+        display: block; 
+        margin: 0 auto;
+      }
+      .cover-img {
+        float: left; 
+        margin: 0 40px 0 0;
+      }
+      .report-box {
+        width: 500px; 
+        margin: 20px auto; 
+        padding: 30px;
+        background-color: #fafafa;
+      }
+      .moby-quote {
+        font-style: italic; 
+        font-size: 20px;
+      }
+      span {
+        font-style:normal; 
+        font-size: 24px; 
+        font-weight: bold;
+        color: #ff0000;
+      }
